@@ -25,11 +25,11 @@ export default function Navigation() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <img 
-              src="/logo.png" 
+              src="/smelts-logo.png" 
               alt="SMELTS Logo" 
               className="h-8 w-auto"
             />
-            <span className="ml-2 text-xl font-semibold text-gray-900">SMELTS</span>
+            <span className="ml-2 text-xl font-semibold text-gray-900">Seacloud</span>
           </div>
           
           <div className="hidden md:flex items-center space-x-6">
